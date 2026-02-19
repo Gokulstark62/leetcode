@@ -8,5 +8,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Gokulstark62/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0696-count-binary-substrings](https://github.com/Gokulstark62/leetcode/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
