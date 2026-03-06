@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gokulstark62/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0494-target-sum](https://github.com/Gokulstark62/leetcode/tree/master/0494-target-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokulstark62/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Gokulstark62/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gokulstark62/leetcode/tree/master/0217-contains-duplicate) |
+| [0494-target-sum](https://github.com/Gokulstark62/leetcode/tree/master/0494-target-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gokulstark62/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Matrix
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokulstark62/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/Gokulstark62/leetcode/tree/master/0494-target-sum) |
 ## Counting
 |  |
 | ------- |
