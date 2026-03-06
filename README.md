@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Gokulstark62/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Gokulstark62/leetcode/tree/master/0761-special-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Gokulstark62/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Gokulstark62/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Hash Table
 |  |
 | ------- |
