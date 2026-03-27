@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Gokulstark62/leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Gokulstark62/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2906-construct-product-matrix](https://github.com/Gokulstark62/leetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Gokulstark62/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Gokulstark62/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Gokulstark62/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gokulstark62/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Gokulstark62/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Gokulstark62/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Gokulstark62/leetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Gokulstark62/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Gokulstark62/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Gokulstark62/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Gokulstark62/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Gokulstark62/leetcode/tree/master/1929-concatenation-of-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Gokulstark62/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/Gokulstark62/leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Gokulstark62/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Gokulstark62/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Design
 |  |
 | ------- |
