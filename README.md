@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Gokulstark62/leetcode/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/Gokulstark62/leetcode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Gokulstark62/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
@@ -201,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
