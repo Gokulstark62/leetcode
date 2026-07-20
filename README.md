@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0707-design-linked-list) |
 | [1622-fancy-sequence](https://github.com/Gokulstark62/leetcode/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Gokulstark62/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Gokulstark62/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
