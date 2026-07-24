@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gokulstark62/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Gokulstark62/leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Gokulstark62/leetcode/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/Gokulstark62/leetcode/tree/master/0761-special-binary-string) |
 ## Array
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gokulstark62/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Gokulstark62/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Gokulstark62/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Gokulstark62/leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Gokulstark62/leetcode/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/Gokulstark62/leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Gokulstark62/leetcode/tree/master/0575-distribute-candies) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Gokulstark62/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Gokulstark62/leetcode/tree/master/0493-reverse-pairs) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Gokulstark62/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Simulation
 |  |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Gokulstark62/leetcode/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/Gokulstark62/leetcode/tree/master/1622-fancy-sequence) |
 ## Heap (Priority Queue)
 |  |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gokulstark62/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/Gokulstark62/leetcode/tree/master/0493-reverse-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -284,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gokulstark62/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Gokulstark62/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
