@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gokulstark62/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokulstark62/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Gokulstark62/leetcode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/Gokulstark62/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Gokulstark62/leetcode/tree/master/0575-distribute-candies) |
 | [1980-find-unique-binary-string](https://github.com/Gokulstark62/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Gokulstark62/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Gokulstark62/leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Gokulstark62/leetcode/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/Gokulstark62/leetcode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/Gokulstark62/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Gokulstark62/leetcode/tree/master/0575-distribute-candies) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gokulstark62/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Gokulstark62/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gokulstark62/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Gokulstark62/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Gokulstark62/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Gokulstark62/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Gokulstark62/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
