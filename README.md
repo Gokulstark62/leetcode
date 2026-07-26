@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gokulstark62/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gokulstark62/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokulstark62/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gokulstark62/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Gokulstark62/leetcode/tree/master/0761-special-binary-string) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Gokulstark62/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Gokulstark62/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Gokulstark62/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokulstark62/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Gokulstark62/leetcode/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gokulstark62/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gokulstark62/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Gokulstark62/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Gokulstark62/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Gokulstark62/leetcode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/Gokulstark62/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gokulstark62/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gokulstark62/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1622-fancy-sequence](https://github.com/Gokulstark62/leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Gokulstark62/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
