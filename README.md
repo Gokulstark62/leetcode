@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gokulstark62/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokulstark62/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Gokulstark62/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Gokulstark62/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Gokulstark62/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Gokulstark62/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Gokulstark62/leetcode/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Gokulstark62/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Gokulstark62/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Gokulstark62/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Gokulstark62/leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Gokulstark62/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Gokulstark62/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Gokulstark62/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gokulstark62/leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Gokulstark62/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gokulstark62/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokulstark62/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gokulstark62/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Gokulstark62/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Gokulstark62/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gokulstark62/leetcode/tree/master/0042-trapping-rain-water) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
