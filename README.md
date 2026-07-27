@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gokulstark62/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Gokulstark62/leetcode/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Gokulstark62/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Gokulstark62/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Gokulstark62/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Gokulstark62/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Gokulstark62/leetcode/tree/master/0118-pascals-triangle) |
