@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Gokulstark62/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokulstark62/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Gokulstark62/leetcode/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/Gokulstark62/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gokulstark62/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Gokulstark62/leetcode/tree/master/0724-find-pivot-index) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gokulstark62/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Gokulstark62/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Gokulstark62/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/Gokulstark62/leetcode/tree/master/0605-can-place-flowers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Gokulstark62/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Gokulstark62/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Gokulstark62/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
