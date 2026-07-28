@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gokulstark62/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Gokulstark62/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Gokulstark62/leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Gokulstark62/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Gokulstark62/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Gokulstark62/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Gokulstark62/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gokulstark62/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Gokulstark62/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gokulstark62/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Gokulstark62/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gokulstark62/leetcode/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/Gokulstark62/leetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Gokulstark62/leetcode/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Gokulstark62/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
