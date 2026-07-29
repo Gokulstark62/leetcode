@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Gokulstark62/leetcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Gokulstark62/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gokulstark62/leetcode/tree/master/0344-reverse-string) |
+| [0385-mini-parser](https://github.com/Gokulstark62/leetcode/tree/master/0385-mini-parser) |
 | [0500-keyboard-row](https://github.com/Gokulstark62/leetcode/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/Gokulstark62/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Gokulstark62/leetcode/tree/master/0761-special-binary-string) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Gokulstark62/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Gokulstark62/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0385-mini-parser](https://github.com/Gokulstark62/leetcode/tree/master/0385-mini-parser) |
 | [0445-add-two-numbers-ii](https://github.com/Gokulstark62/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Gokulstark62/leetcode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Gokulstark62/leetcode/tree/master/0844-backspace-string-compare) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0385-mini-parser](https://github.com/Gokulstark62/leetcode/tree/master/0385-mini-parser) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
