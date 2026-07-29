@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gokulstark62/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gokulstark62/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokulstark62/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Gokulstark62/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Gokulstark62/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokulstark62/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Gokulstark62/leetcode/tree/master/0575-distribute-candies) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Gokulstark62/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/Gokulstark62/leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Gokulstark62/leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Gokulstark62/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Gokulstark62/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Gokulstark62/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Gokulstark62/leetcode/tree/master/0575-distribute-candies) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Gokulstark62/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Gokulstark62/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Gokulstark62/leetcode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Gokulstark62/leetcode/tree/master/0844-backspace-string-compare) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Gokulstark62/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Gokulstark62/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gokulstark62/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Gokulstark62/leetcode/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
