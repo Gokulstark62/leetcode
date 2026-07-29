@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokulstark62/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Gokulstark62/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Gokulstark62/leetcode/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/Gokulstark62/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Gokulstark62/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gokulstark62/leetcode/tree/master/0344-reverse-string) |
 | [0385-mini-parser](https://github.com/Gokulstark62/leetcode/tree/master/0385-mini-parser) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Gokulstark62/leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Gokulstark62/leetcode/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/Gokulstark62/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gokulstark62/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gokulstark62/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Gokulstark62/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Gokulstark62/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Gokulstark62/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Gokulstark62/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Gokulstark62/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Gokulstark62/leetcode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Gokulstark62/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/Gokulstark62/leetcode/tree/master/0385-mini-parser) |
 | [0445-add-two-numbers-ii](https://github.com/Gokulstark62/leetcode/tree/master/0445-add-two-numbers-ii) |
