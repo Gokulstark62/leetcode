@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/Gokulstark62/leetcode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/Gokulstark62/leetcode/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/Gokulstark62/leetcode/tree/master/0500-keyboard-row) |
+| [0591-tag-validator](https://github.com/Gokulstark62/leetcode/tree/master/0591-tag-validator) |
 | [0649-dota2-senate](https://github.com/Gokulstark62/leetcode/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/Gokulstark62/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Gokulstark62/leetcode/tree/master/0761-special-binary-string) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Gokulstark62/leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Gokulstark62/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Gokulstark62/leetcode/tree/master/0496-next-greater-element-i) |
+| [0591-tag-validator](https://github.com/Gokulstark62/leetcode/tree/master/0591-tag-validator) |
 | [0636-exclusive-time-of-functions](https://github.com/Gokulstark62/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0844-backspace-string-compare](https://github.com/Gokulstark62/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Gokulstark62/leetcode/tree/master/0856-score-of-parentheses) |
