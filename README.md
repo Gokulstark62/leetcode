@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Gokulstark62/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Gokulstark62/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gokulstark62/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Gokulstark62/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Gokulstark62/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Table
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Gokulstark62/leetcode/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Gokulstark62/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Gokulstark62/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Gokulstark62/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Greedy
 |  |
 | ------- |
