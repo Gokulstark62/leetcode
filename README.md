@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Gokulstark62/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Gokulstark62/leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Gokulstark62/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gokulstark62/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Gokulstark62/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2906-construct-product-matrix](https://github.com/Gokulstark62/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Gokulstark62/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Gokulstark62/leetcode/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gokulstark62/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Gokulstark62/leetcode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gokulstark62/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Gokulstark62/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Gokulstark62/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Gokulstark62/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -436,4 +438,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/Gokulstark62/leetcode/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gokulstark62/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gokulstark62/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
