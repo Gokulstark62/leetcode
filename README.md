@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Gokulstark62/leetcode/tree/master/0344-reverse-string) |
 | [0385-mini-parser](https://github.com/Gokulstark62/leetcode/tree/master/0385-mini-parser) |
 | [0500-keyboard-row](https://github.com/Gokulstark62/leetcode/tree/master/0500-keyboard-row) |
+| [0649-dota2-senate](https://github.com/Gokulstark62/leetcode/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/Gokulstark62/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Gokulstark62/leetcode/tree/master/0761-special-binary-string) |
 | [0844-backspace-string-compare](https://github.com/Gokulstark62/leetcode/tree/master/0844-backspace-string-compare) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Gokulstark62/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Gokulstark62/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Gokulstark62/leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Gokulstark62/leetcode/tree/master/0649-dota2-senate) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gokulstark62/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Gokulstark62/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gokulstark62/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -432,5 +434,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Gokulstark62/leetcode/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gokulstark62/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
