@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Gokulstark62/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Gokulstark62/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Gokulstark62/leetcode/tree/master/3174-clear-digits) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Gokulstark62/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Greedy
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Gokulstark62/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gokulstark62/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Gokulstark62/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Design
 |  |
 | ------- |
