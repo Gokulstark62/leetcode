@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Gokulstark62/leetcode/tree/master/0761-special-binary-string) |
 | [0844-backspace-string-compare](https://github.com/Gokulstark62/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Gokulstark62/leetcode/tree/master/0856-score-of-parentheses) |
+| [1106-parsing-a-boolean-expression](https://github.com/Gokulstark62/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Gokulstark62/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Gokulstark62/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Gokulstark62/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Gokulstark62/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Gokulstark62/leetcode/tree/master/0394-decode-string) |
+| [1106-parsing-a-boolean-expression](https://github.com/Gokulstark62/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Gokulstark62/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Gokulstark62/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0844-backspace-string-compare](https://github.com/Gokulstark62/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Gokulstark62/leetcode/tree/master/0856-score-of-parentheses) |
+| [1106-parsing-a-boolean-expression](https://github.com/Gokulstark62/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Gokulstark62/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Gokulstark62/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gokulstark62/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
