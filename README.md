@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gokulstark62/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Gokulstark62/leetcode/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/Gokulstark62/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/Gokulstark62/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gokulstark62/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gokulstark62/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1622-fancy-sequence](https://github.com/Gokulstark62/leetcode/tree/master/1622-fancy-sequence) |
