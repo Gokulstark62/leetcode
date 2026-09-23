@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gokulstark62/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gokulstark62/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Gokulstark62/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gokulstark62/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Gokulstark62/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Gokulstark62/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gokulstark62/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gokulstark62/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gokulstark62/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1622-fancy-sequence](https://github.com/Gokulstark62/leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Gokulstark62/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Gokulstark62/leetcode/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
